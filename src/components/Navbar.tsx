@@ -8,7 +8,7 @@ export default function Navbar() {
     <nav className="bg-purple-600 p-4 flex justify-between items-center relative">
       <Link to="/">
         {/* Logo */}
-        <img src="./src/assets/kodigo_logo_nav.png" className="w-[100px]" />
+        <img src="/kodigo_logo_nav.png" className="w-[100px]" />
       </Link>
 
       {/* Botón Hamburger para telefonos */}
